@@ -214,7 +214,7 @@ body {
     color: var(--text-muted);
     pointer-events: none;
 }
-.input-wrap input { padding-left: 2.6rem; }
+.input-wrap input[type="text"] { padding-left: 2.6rem; }
 
 /* ================================================
    Header del panel principal
@@ -462,7 +462,7 @@ select {
     -webkit-appearance: none;
 }
 input[type="text"]::placeholder,
-textarea::placeholder { color: var(--text-muted); }
+textarea::placeholder { color: #64748b; }
 
 input[type="text"]:focus,
 textarea:focus,
