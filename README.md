@@ -1,6 +1,6 @@
 # SignalRNotifications
 
-SignalRNotifications es una aplicación web de ejemplo diseñada para demostrar el uso de **SignalR en ASP.NET Core** mediante un sistema de notificaciones en tiempo real. Permite enviar mensajes instantáneos a todos los usuarios conectados (broadcast) o a un destinatario concreto (mensaje directo), sin recargar la página y sin polling. Desarrollada como material de apoyo para el videotutorial y el post técnico publicados en [Tech Riders](https://techriders.tajamar.es).
+SignalRNotifications es una aplicación web de ejemplo diseñada para demostrar el uso de **SignalR en ASP.NET Core** mediante un sistema de notificaciones en tiempo real. Permite enviar mensajes instantáneos a todos los usuarios conectados (broadcast) o a un destinatario concreto (mensaje directo), sin recargar la página y sin polling.
 
 ## Tecnologías
 
